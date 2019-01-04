@@ -1,0 +1,60 @@
+global:
+  tagline: 简体中文
+  twitter: Twitter
+  github: GitHub
+  primcraft: PrimCraft
+  primcraft-description: 环太平洋地域 Minecraft 服务器
+  announcements: 公告
+  related: 友情链接
+  recent: 最新内容
+  noting-to-see-here: 什么也没有0w0
+  mojang-disclaimer: Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.
+  cc-by-4-0-before: 除非另有声明，本网站内容采用
+  cc-by-4-0-after: 授权。
+  last-generated: 页面最后生成于
+  categories: 分类
+  tags: 标签
+  blog: 官方博客
+  forum: 论坛
+  wiki: Wiki
+  server-address: 服务器地址
+  view-all-posts: 查看全部文章
+  tfna-title: 页面不可用
+  tfna-description: 当前页面没有这个语言的翻译。查看这个页面的其他语言：
+  read-more: 继续阅读
+tags:
+  test: 测试
+categories:
+  announcement: 公告
+  jekyll: Jekyll
+archive:
+  archives: 归档
+  of-category: 分类归档
+  of-tag: 标签归档
+  of-year: 年度归档
+  of-month: 月度归档
+  of-day: 每日归档
+titles:
+  about: 关于
+pages:
+  toc: 目录
+user:
+  user-info: 用户信息
+  minecraft-id: Minecraft ID
+  name: 名字
+  es-group: ES用户组
+  es-prefix: ES前缀
+  es-name-tag: ES用户名标签
+servers:
+  es:
+    name: 经济生存
+    brief: 目前服务器正在二周目中。最初运行概念来自于1.2.5-1.3.1左右的MCBBS官方服务器。
+  ar:
+    name: Airless Dungeon
+    brief: A server running an endless rouge-like adventure map designed by Airest.
+server-tags:
+  shop: ChestShop
+  residence: 领地
+  container-protection: LWC锁箱
+  rouge-like: 类Rouge
+  adventure: 冒险模式

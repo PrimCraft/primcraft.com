@@ -1,0 +1,75 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+encoding: utf-8
+title: PrimCraft
+timezone: America/Los_Angeles
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:year/:month/:day/:title/
+show_excerpts: true
+
+navs:
+  - name: titles.about
+    link: about
+  - name: global.categories
+    link: category
+  - name: global.tags
+    link: tag
+  - name: global.blog
+    link: http://blog.primcraft.com
+  - name: global.wiki
+    link: http://wiki.primcraft.com
+  - name: global.forum
+    link: http://forum.primcraft.com
+
+collections:
+  servers:
+    output: true
+  tutorial:
+    output: true
+  users:
+    output: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+plugins:
+  - jekyll-feed
+  - jekyll-multiple-languages-plugin
+  - jekyll-archives
+  - jekyll-toc
+  - jekyll-paginate
+  - bootstrap
+  - bootswatch
+
+paginate: 5
+paginate_path: "/posts/page-:num/"
+
+languages: ["zh-CN", "en-US"]
+exclude_from_localizations: ["assets", "images"]
+defaultLang: zh-CN
+languageNames:
+  en-US: English (US)
+  zh-CN: 简体中文
+
+dateFormats:
+  en-US: "%b %-d, %Y"
+  zh-CN: "%Y/%m/%d"
+
+jekyll-archives:
+  enabled: all
+  layout: archive

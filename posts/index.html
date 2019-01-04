@@ -1,0 +1,34 @@
+---
+layout: content
+title: Posts
+---
+
+<!-- This loops through the paginated posts -->
+{%- include full-post-list.html posts = paginator.posts -%}
+
+<!-- Pagination links -->
+<nav>
+    <ul class="pagination justify-content-center">
+        {%- if paginator.previous_page -%}
+        <li class="page-item">
+            <a class="page-link" href="{{ paginator.previous_page_path }}">&laquo;</a>
+        </li>
+        {%- else -%}
+        <li class="page-item disabled">
+            <a class="page-link" href="#">&laquo;</a>
+        </li>
+        {%- endif -%}
+        <li class="page-item disabled">
+            <a class="page-link text-dark" href="#">{{ paginator.page }} / {{ paginator.total_pages }}</a>
+        </li>
+        {%- if paginator.next_page -%}
+        <li class="page-item">
+            <a class="page-link" href="{{ paginator.next_page_path }}">&raquo;</a>
+        </li>
+        {%- else -%}
+        <li class="page-item disabled">
+            <a class="page-link" href="#">&raquo;</a>
+        </li>
+        {%- endif -%}
+    </ul>
+</nav>

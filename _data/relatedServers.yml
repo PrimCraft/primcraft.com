@@ -1,0 +1,21 @@
+zh-CN:
+  - name: PrimCraft
+    description: 环太平洋地域 Minecraft 服务器
+    link: http://primcraft.com/zh-CN
+  - name: YinwuRealm
+    description: 一个中国的国际正版公益Minecraft游戏服务器
+    link: https://www.yinwurealm.org/
+    tags:
+      - 正版
+      - 中国
+
+en-US:
+  - name: PrimCraft
+    description: Pacific Rim Minecraft Server
+    link: http://primcraft.com/
+  - name: YinwuRealm
+    description: 一个中国的国际正版公益Minecraft游戏服务器
+    link: https://www.yinwurealm.org/
+    tags:
+      - Online
+      - China

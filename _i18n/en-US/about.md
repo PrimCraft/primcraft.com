@@ -1,0 +1,3 @@
+Nothing to see for now...
+
+If you want to know more about individual sub-servers, click the thumbnail of one of the servers in the home page.

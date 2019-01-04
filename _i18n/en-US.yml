@@ -1,0 +1,62 @@
+global:
+  tagline: English
+  twitter: Twitter
+  github: GitHub
+  primcraft: PrimCraft
+  primcraft-description: Pacific Rim Minecraft Server
+  announcements: Announcements
+  related: Related Links
+  recent: Recent
+  noting-to-see-here: Nothing to see here :)
+  mojang-disclaimer: Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.
+  cc-by-4-0-before: Content is available under
+  cc-by-4-0-after: unless otherwise noted.
+  last-generated: Page last generated at
+  categories: Categories
+  tags: Tags
+  blog: Blog
+  forum: Forum
+  wiki: Wiki
+  server-address: Server Address
+  view-all-posts: View All Posts...
+  tfna-title: Page Not Available
+  tfna-description: "This page is not currently available in your language. However, you may still be able to read it in: "
+  read-more: Read More
+tags:
+  test: Test
+categories:
+  announcement: Announcement
+  jekyll: Jekyll
+archive:
+  archives: Archives
+  of-category: Category Archives
+  of-tag: Tag Archives
+  of-year: Yearly Archives
+  of-month: Monthly Archives
+  of-day: Daily Archives
+titles:
+  about: About
+pages:
+  toc: Content
+user:
+  user-info: User Info
+  minecraft-id: Minecraft ID
+  name: Name
+  es-group: Group in ES
+  es-prefix: Prefix in ES
+  es-name-tag: Name Tag in ES
+servers:
+  es:
+    name: Economic Survival
+    brief: >-
+      Economic Survival server inherits the essence of the MCBBS server in the 1.2.5 era and has been runing since 2014.
+      The current map had been regenerated once at version 1.9.
+  ar:
+    name: Airless Dungeon
+    brief: A server running an endless rouge-like adventure map designed by Airest.
+server-tags:
+  shop: ChestShop
+  residence: Residence
+  container-protection: LWC
+  rouge-like: Rouge-like
+  adventure: Adventure

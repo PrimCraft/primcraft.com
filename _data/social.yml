@@ -1,0 +1,28 @@
+en-US:
+  - id: qq
+    name: QQ Group
+    popover: 291429434
+  - id: discord
+    name: Discord
+    link: https://discord.gg/3N3jNEK
+  - id: github
+    name: GitHub
+    link: https://github.com/PrimCraft
+  - id: rss
+    icon-class: fas fa-rss
+    name: RSS
+    link: /en-US/feed.xml
+zh-CN:
+  - id: qq
+    name: QQ群
+    popover: 291429434
+  - id: discord
+    name: Discord
+    link: https://discord.gg/3N3jNEK
+  - id: github
+    name: GitHub
+    link: https://github.com/PrimCraft
+  - id: rss
+    icon-class: fas fa-rss
+    name: RSS
+    link: /feed.xml
