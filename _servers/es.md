@@ -26,5 +26,13 @@ carousel:
         descriptions:
           zh-CN: 因为没人来...
           en-US: Because nobody comes...
+    - src: 1.jpg
+      caption:
+        titles:
+          zh-CN: 出生点
+          en-US: Spawn
+        descriptions:
+          zh-CN: 同时是一只商店
+          en-US: It's also a store
 ---
 {%- tf servers/es.md -%}
