@@ -28,6 +28,8 @@ navs:
     link: category
   - name: global.tags
     link: tag
+  - name: global.map-archive
+    link: map-archive
   - name: global.blog
     link: http://blog.primcraft.com
   - name: global.wiki
