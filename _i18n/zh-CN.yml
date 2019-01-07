@@ -25,6 +25,11 @@ global:
   read-more: 继续阅读
 tags:
   test: 测试
+  plugin: 插件
+  es:
+    name: 经济生存
+  ar:
+    name: Airless Dungeon
 categories:
   announcement: 公告
   jekyll: Jekyll
@@ -46,13 +51,6 @@ user:
   es-group: ES用户组
   es-prefix: ES前缀
   es-name-tag: ES用户名标签
-servers:
-  es:
-    name: 经济生存
-    brief: 目前服务器正在二周目中。最初运行概念来自于1.2.5-1.3.1左右的MCBBS官方服务器。
-  ar:
-    name: Airless Dungeon
-    brief: A server running an endless rouge-like adventure map designed by Airest.
 server-tags:
   shop: ChestShop
   residence: 领地

@@ -62,6 +62,13 @@ plugins:
 paginate: 5
 paginate_path: "/posts/page-:num/"
 
+jekyll_compose:
+  post_default_front_matter:
+    author:
+    categories:
+    tags:
+    thumbnail:
+
 languages: ["en-US", "zh-CN"]
 exclude_from_localizations: ["assets", "images"]
 defaultLang: en-US

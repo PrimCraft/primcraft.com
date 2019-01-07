@@ -25,6 +25,11 @@ global:
   read-more: Read More
 tags:
   test: Test
+  plugin: Plugin
+  es:
+    name: Economic Survival
+  ar:
+    name: Airless Dungeon
 categories:
   announcement: Announcement
   jekyll: Jekyll
@@ -46,15 +51,6 @@ user:
   es-group: Group in ES
   es-prefix: Prefix in ES
   es-name-tag: Name Tag in ES
-servers:
-  es:
-    name: Economic Survival
-    brief: >-
-      Economic Survival server inherits the essence of the MCBBS server in the 1.2.5 era and has been runing since 2014.
-      The current map had been regenerated once at version 1.9.
-  ar:
-    name: Airless Dungeon
-    brief: A server running an endless rouge-like adventure map designed by Airest.
 server-tags:
   shop: ChestShop
   residence: Residence
