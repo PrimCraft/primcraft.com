@@ -9,7 +9,7 @@ jobs:
           keys:
             - rubygems-v1-{{ checksum "Gemfile.lock" }}
             - rubygems-v1-fallback
-      - run: bundle install
+      - run: bundle update
       - run: bundle exec jekyll build --verbose
       - run:
           name: Test
