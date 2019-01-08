@@ -1,6 +1,7 @@
 version: 2
 jobs:
   deploy:
+    working_directory: ~/repo
     docker:
       - image: circleci/ruby:2.5
     steps:
@@ -20,6 +21,10 @@ jobs:
       - deploy:
           name: Deploy Release
           command: rsync -va --delete ./_site/ site@primcraft.com:/home/wwwroot/primcraft.com/web/
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - _site
 workflows:
   version: 2
   build:
