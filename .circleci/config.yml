@@ -14,8 +14,7 @@ jobs:
       # - run:
       #     name: Test
       #     command: bundle exec htmlproofer ./_site --check-html --disable-external
-      - run: get rsync
-        name: apt-get upgrade -y && apt-get install -y rsync
+      - run: apt-get upgrade -y && apt-get install -y rsync
       - deploy:
           name: Deploy Release
           command: rsync -va --delete ./_site site@primcraft.com:/home/wwwroot/primcraft.com/web
