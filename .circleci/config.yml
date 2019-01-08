@@ -15,6 +15,7 @@ jobs:
       #     name: Test
       #     command: bundle exec htmlproofer ./_site --check-html --disable-external
       - run: sudo apt-get upgrade -y && sudo apt-get install -y rsync
+      - run: echo '|1|57k0ZmQC5wEm5mkzcaDBMoJhAvk=|zKXb90n0p7Kpma3qPpeOuOa5Jao= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMKQVUuQ1GoxnLzk9nVdB+DH4eyTzFmeu2RQsXuy2zJU99FNc0wHuxcjjGM99but8k/OpBqk0yBh0ka4r7/EsCc=' >> ~/.ssh/known_hosts
       - deploy:
           name: Deploy Release
           command: rsync -va --delete ./_site site@primcraft.com:/home/wwwroot/primcraft.com/web
