@@ -17,10 +17,10 @@ jobs:
           paths:
             - vendor/bundle
       - run: sudo apt-get upgrade -y && sudo apt-get install -y rsync
-      - run: echo '|1|57k0ZmQC5wEm5mkzcaDBMoJhAvk=|zKXb90n0p7Kpma3qPpeOuOa5Jao= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMKQVUuQ1GoxnLzk9nVdB+DH4eyTzFmeu2RQsXuy2zJU99FNc0wHuxcjjGM99but8k/OpBqk0yBh0ka4r7/EsCc=' >> ~/.ssh/known_hosts
+      - run: echo 'ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAgEAkuW2gmhygEPmCZrypaCIbYscysUYH7mdcKdcALDoMnj87ZwkFnjp3Hv0K7l6l9eKyf23TjFtmxnI4L6oV46OoOUgu5EuQJq4Hu+74jNL7qmribVVA/2KBO5cK7PuluvD7gWXXI03eudfyFp+8zsH4jwJbf21A4lHZQftRDsqy5QrNV2oC0YZ7ADOKOdbENr72XNjB6a6Vn1LxnDiym/XCRJ7QHgSRY3rkD10srJMHqhWw6qFi30+k/dyGPtrpLS+Fi75YLn3ryp7boNTvi5JfEMnwkDl4of2/BKozFPU6G9wtKoOC7wsdZ5JsVQSR3KUkaywA/g+/m47nzWFN4dfso4PePJnQEPZnpxwIge/5MlFH8Rs8rOOmKdunRGepKfzhoDeoO/27BsNUv/3GZ2wkMTEI5iCMiJ2ioPN8b/n/r5ln58A5Jw/WOyqcsiBXIeCBk66G+Y3mgbfQtRgiMbLQZ5X0P7cwAd2VjFyFFrxKqPbUZAtEXT+7DhAuYRHsQq477dC0HWS7TqefpXnztqiH/M0dbOEJ9lp+c2k32ArmZtaiA3oi5fkrJF+L9KqsztDSdsqqRKyNvOf/gtgcoUeRYhzZOEC8781bCVg5y0advYw73z47LPOscT6yOv6OCd+GodnZCg79HB5YN5Mi8gyRhrQuvmlxdiiy0tODu14kxE=' >> ~/.ssh/known_hosts
       - deploy:
           name: Deploy Release
-          command: rsync -va --delete ./_site/ site@primcraft.com:/home/wwwroot/primcraft.com/web/
+          command: rsync -va --delete ./_site/ site@front.primcraft.com:~/public_html/
       - persist_to_workspace:
           root: ./
           paths:
