@@ -30,12 +30,10 @@ navs:
     link: tag
   - name: global.map-archive
     link: map-archive
-  - name: global.blog
-    link: http://blog.primcraft.com
+  - name: global.forum
+    link: https://forum.primcraft.com
   - name: global.wiki
     link: http://wiki.primcraft.com
-  - name: global.forum
-    link: http://forum.primcraft.com
 
 collections:
   servers:

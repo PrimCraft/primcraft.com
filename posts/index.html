@@ -11,7 +11,7 @@ title: Posts
     <ul class="pagination justify-content-center">
         {%- if paginator.previous_page -%}
         <li class="page-item">
-            <a class="page-link" href="{{ paginator.previous_page_path }}">&laquo;</a>
+            <a class="page-link" href="{{ paginator.previous_page_path  | relative_url }}">&laquo;</a>
         </li>
         {%- else -%}
         <li class="page-item disabled">
@@ -23,7 +23,7 @@ title: Posts
         </li>
         {%- if paginator.next_page -%}
         <li class="page-item">
-            <a class="page-link" href="{{ paginator.next_page_path }}">&raquo;</a>
+            <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">&raquo;</a>
         </li>
         {%- else -%}
         <li class="page-item disabled">

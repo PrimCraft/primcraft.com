@@ -29,9 +29,11 @@ tags:
   es:
     name: 经济生存
   ar:
-    name: Airless Dungeon
+    name: 窒息地牢
+  outdated: 过时信息
 categories:
   announcement: 公告
+  event: 活动
   jekyll: Jekyll
 archive:
   archives: 归档
