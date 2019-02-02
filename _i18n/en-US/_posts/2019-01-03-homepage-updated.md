@@ -12,7 +12,7 @@ list-filter: announcement
 ---
 After 4 years... I finally decided to upgrade this website... (It was still showing 1.8!
 
-The reason the website was never updated is that all pages are just individual HTML files and I have to manually code every single one of them, which is both a stupid and demotivating task. Even implementing basic functions such as showing recent announcements or changing language was a pain.
+The reason the website was never updated is that all pages were just individual HTML files and I had to manually code every single one of them, which was both a stupid and demotivating task. Even implementing basic functions such as showing recent announcements or changing language was a pain.
 
 So, now this site is written and rendered using [Jekyll](https://jekyllrb.com/). To add a new page all I need to do now is to create a markdown file and start writing what really matters. All posts and pages will also be hosted on GitHub, so if you want to add a home page for your town or yourself, or anything related to our server, feel free to send a pull request to the repo. Your content will be added to this website after I process it.
 

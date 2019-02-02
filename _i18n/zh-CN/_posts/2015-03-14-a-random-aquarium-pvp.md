@@ -13,7 +13,7 @@ thumbnail: https://primcraftcom.sfo2.cdn.digitaloceanspaces.com/assets/wp-conten
 
 **活动时间：**
 
-<span class="wtb-ew-v1" style="width: 100%; display:inline-block; overflow-y: auto;"><script src="http://www.worldtimebuddy.com/event_widget.js?h=5391959&md=3/14/2015&mt=21.50&ml=1.00&sts=0&sln=0&wt=ew-ltc"></script><i><a target="_blank" href="http://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</i><noscript><a href="http://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</noscript><script>window[wtb_event_widgets.pop()].init()</script></span>
+<span class="wtb-ew-v1" style="width: 100%; display:inline-block; overflow-y: auto;"><script src="https://www.worldtimebuddy.com/event_widget.js?h=5391959&md=3/14/2015&mt=21.50&ml=1.00&sts=0&sln=0&wt=ew-ltc"></script><i><a target="_blank" href="https://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</i><noscript><a href="https://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</noscript><script>window[wtb_event_widgets.pop()].init()</script></span>
 
 **目标：**
   

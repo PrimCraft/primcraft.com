@@ -10,4 +10,4 @@ list-filter: announcement
 ---
 简单来说就是这4个小时内无法进入服务器了
   
-<span class="wtb-ew-v1" style="width: 100%; display:inline-block; overflow-y: auto;"><script src="http://www.worldtimebuddy.com/event_widget.js?h=12&md=4/14/2015&mt=8.00&ml=4.00&sts=0&sln=0&wt=ew-ltc"></script><i><a target="_blank" href="http://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</i><noscript><a href="http://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</noscript><script>window[wtb_event_widgets.pop()].init()</script></span>
+<span class="wtb-ew-v1" style="width: 100%; display:inline-block; overflow-y: auto;"><script src="https://www.worldtimebuddy.com/event_widget.js?h=12&md=4/14/2015&mt=8.00&ml=4.00&sts=0&sln=0&wt=ew-ltc"></script><i><a target="_blank" href="https://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</i><noscript><a href="https://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</noscript><script>window[wtb_event_widgets.pop()].init()</script></span>

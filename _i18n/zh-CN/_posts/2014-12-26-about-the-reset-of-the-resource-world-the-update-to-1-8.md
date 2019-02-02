@@ -14,7 +14,7 @@ list-filter: announcement
   
 已决定最终更新日期：
   
-<span class="wtb-ew-v1" style="width: 100%; display:inline-block; overflow-y: auto;"><script src="http://www.worldtimebuddy.com/event_widget.js?h=5391959&md=12/31/2014&mt=22.00&ml=0.08&sts=0&sln=0&wt=ew-ltc"></script><i><a target="_blank" href="http://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</i><noscript><a href="http://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</noscript><script>window[wtb_event_widgets.pop()].init()</script></span>
+<span class="wtb-ew-v1" style="width: 100%; display:inline-block; overflow-y: auto;"><script src="https://www.worldtimebuddy.com/event_widget.js?h=5391959&md=12/31/2014&mt=22.00&ml=0.08&sts=0&sln=0&wt=ew-ltc"></script><i><a target="_blank" href="https://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</i><noscript><a href="https://www.worldtimebuddy.com/">Time converter</a> at worldtimebuddy.com</noscript><script>window[wtb_event_widgets.pop()].init()</script></span>
 
 
   
