@@ -10,6 +10,6 @@ list-filter: announcement
 
 Linode is closing their Tokyo 1 data center. . so I had to migrate the server to Tokyo 2. .
 
-Connections from mainland China may not as good as before, so if you are players from mainland China, please also read the Chinese version of this post. 
+Connections from mainland China may not as good as before, so if you are a player from mainland China, please also read the Chinese version of this post. 
 
 If you are having trouble connecting to the new server, feel free to contact us through our forum.

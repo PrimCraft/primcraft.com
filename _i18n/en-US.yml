@@ -16,6 +16,7 @@ global:
   tags: Tags
   map-archive: Map Archive
   blog: Blog
+  maps: Dynamic Map
   forum: Forum
   wiki: Wiki
   server-address: Server Address
