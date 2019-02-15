@@ -8,13 +8,13 @@ Rather than writing a long and messy description right next to your name, we des
 | [R]          | 1        | <span class ="minecraft-text-a">§a</span> | Resource World                              |
 | [#]          | 1        | <span class ="minecraft-text-9">§9</span> | Discord (Not in game)                       |
 | [Admin]      | 2        | <span class ="minecraft-text-c">§c</span> | Admin, label text may be customized         |
-| [Builder]    | 2        | <span class ="minecraft-text-3">§3</span> | Builder, label text may be customized       |
+| [Builder]    | 2        | <span class ="minecraft-text-e">§e</span> | Builder, label text may be customized       |
 | [Mod]        | 2        | <span class ="minecraft-text-6">§6</span> | Moderator, label text may be customized     |
 |              | 2        | <span class ="minecraft-text-b">§b</span> | Sponsor, label text may be customized       |
 | [Player]     | 2        | <span class ="minecraft-text-a">§a</span> | Player                                      |
 | [Unverified] | 2        | <span class ="minecraft-text-a">§9</span> | Unverified Discord user                     |
 |              | 3        | <span class ="minecraft-text-b">§b</span> | Admin Team, label text is the player's name |
-|              | 3        | <span class ="minecraft-text-9">§9</span> | Builders, label text is the player's name   |
+|              | 3        | <span class ="minecraft-text-6">§6</span> | Builders, label text is the player's name   |
 |              | 3        | <span class ="minecraft-text-2">§2</span> | Players, label text is the player's name    |
 |              | 3        | <span class ="minecraft-text-3">§3</span> | Discord users                               |
 
@@ -27,7 +27,7 @@ Simply speaking, position1 is the abbreviation of the world the player located, 
     <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-c">[Admin]</span><span class ="minecraft-text-b">Soniji</span>&gt; Meow</li>
     <li>&lt;<span class ="minecraft-text-c">[N]</span><span class ="minecraft-text-6">[Mod]</span><span class ="minecraft-text-b">Whitebai_</span>&gt; Hi</li>
     <li>&lt;<span class ="minecraft-text-e">[E]</span><span class ="minecraft-text-a">[Player]</span><span class ="minecraft-text-2">Dinnerbone</span>&gt; 🙃</li>
-    <li>&lt;<span class ="minecraft-text-a">[R]</span><span class ="minecraft-text-3">[Builder]</span><span class ="minecraft-text-9">bk_owenk</span>&gt; Build!</li>
+    <li>&lt;<span class ="minecraft-text-a">[R]</span><span class ="minecraft-text-e">[Builder]</span><span class ="minecraft-text-6">bk_owenk</span>&gt; Build!</li>
     <li><span class ="minecraft-text-7">&lt;<span class ="minecraft-text-9">[#]</span><span class ="minecraft-text-8">[Unverified]</span><span class ="minecraft-text-3">some one</span>&gt; SPAM! I mean musubi..</span></li>
     <li>&lt;<span class ="minecraft-text-9">[#]</span><span class ="minecraft-text-c">[Admin]</span><span class ="minecraft-text-3">Soniji</span>&gt; hmm...</li>
 </ul>
@@ -55,8 +55,8 @@ More examples!:
     <li>&lt;<span class ="minecraft-text-e">[E]</span><span class ="minecraft-text-6">[I Am Cat]</span><span class ="minecraft-text-b">Soniji</span>&gt; Customized Mod</li>
     <li>&lt;<span class ="minecraft-text-c">[N]</span><span class ="minecraft-text-b">[Player]</span><span class ="minecraft-text-2">Soniji</span>&gt; Sponser</li>
     <li>&lt;<span class ="minecraft-text-a">[R]</span><span class ="minecraft-text-b">[I am Cat]</span><span class ="minecraft-text-2">Soniji</span>&gt; Customized Sponser</li>
-    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[Builder]</span><span class ="minecraft-text-9">Soniji</span>&gt; Builder and Sponser</li>
-    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[I am Cat]</span><span class ="minecraft-text-9">Soniji</span>&gt; Customized Builder and Sponser</li>
+    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[Builder]</span><span class ="minecraft-text-6">Soniji</span>&gt; Builder and Sponser</li>
+    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[I am Cat]</span><span class ="minecraft-text-6">Soniji</span>&gt; Customized Builder and Sponser</li>
 </ul>
 The corresponding groups/roles are:
 - Builder and moderator

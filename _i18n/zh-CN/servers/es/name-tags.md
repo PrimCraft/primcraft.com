@@ -8,13 +8,13 @@
 | [R]          | 1    | <span class ="minecraft-text-a">§a</span> | 资源世界                                         |
 | [#]          | 1    | <span class ="minecraft-text-9">§9</span> | Discord消息                                      |
 | [Admin]      | 2    | <span class ="minecraft-text-c">§c</span> | 总管理员，标签有可能会被自定义。                   |
-| [Builder]    | 2    | <span class ="minecraft-text-3">§3</span> | 建筑师，标签有可能会被自定义。                     |
+| [Builder]    | 2    | <span class ="minecraft-text-3">§e</span> | 建筑师，标签有可能会被自定义。                     |
 | [Mod]        | 2    | <span class ="minecraft-text-6">§6</span> | 管理员，标签有可能会被自定义。                   |
 |              | 2    | <span class ="minecraft-text-b">§b</span> | 捐款者，标签内容会被自定义或者根据所在用户组显示 |
 | [Player]     | 2    | <span class ="minecraft-text-a">§a</span> | 玩家                                             |
 | [Unverified] | 2    | <span class ="minecraft-text-9">§9</span> | 未验证的Discord用户                               |
 |              | 3    | <span class ="minecraft-text-b">§b</span> | 管理团队                                         |
-|              | 3    | <span class ="minecraft-text-9">§9</span> | 建筑团队                                         |
+|              | 3    | <span class ="minecraft-text-9">§6</span> | 建筑团队                                         |
 |              | 3    | <span class ="minecraft-text-2">§2</span> | 玩家                                             |
 |              | 3    | <span class ="minecraft-text-3">§3</span> | Discord用户                                     |
 
@@ -27,7 +27,7 @@
     <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-c">[Admin]</span><span class ="minecraft-text-b">Soniji</span>&gt; Meow</li>
     <li>&lt;<span class ="minecraft-text-c">[N]</span><span class ="minecraft-text-6">[Mod]</span><span class ="minecraft-text-b">Whitebai_</span>&gt; Hi</li>
     <li>&lt;<span class ="minecraft-text-e">[E]</span><span class ="minecraft-text-a">[Player]</span><span class ="minecraft-text-2">Dinnerbone</span>&gt; 🙃</li>
-    <li>&lt;<span class ="minecraft-text-a">[R]</span><span class ="minecraft-text-3">[Builder]</span><span class ="minecraft-text-9">bk_owenk</span>&gt; Build!</li>
+    <li>&lt;<span class ="minecraft-text-a">[R]</span><span class ="minecraft-text-e">[Builder]</span><span class ="minecraft-text-6">bk_owenk</span>&gt; Build!</li>
     <li><span class ="minecraft-text-7">&lt;<span class ="minecraft-text-9">[#]</span><span class ="minecraft-text-8">[Unverified]</span><span class ="minecraft-text-3">some one</span>&gt; SPAM! I mean musubi..</span></li>
     <li>&lt;<span class ="minecraft-text-9">[#]</span><span class ="minecraft-text-c">[Admin]</span><span class ="minecraft-text-3">Soniji</span>&gt; hmm...</li>
 </ul>
@@ -55,8 +55,8 @@
     <li>&lt;<span class ="minecraft-text-e">[E]</span><span class ="minecraft-text-6">[I Am Cat]</span><span class ="minecraft-text-b">Soniji</span>&gt; Customized Mod</li>
     <li>&lt;<span class ="minecraft-text-c">[N]</span><span class ="minecraft-text-b">[Player]</span><span class ="minecraft-text-2">Soniji</span>&gt; Sponser</li>
     <li>&lt;<span class ="minecraft-text-a">[R]</span><span class ="minecraft-text-b">[I am Cat]</span><span class ="minecraft-text-2">Soniji</span>&gt; Customized Sponser</li>
-    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[Builder]</span><span class ="minecraft-text-9">Soniji</span>&gt; Builder and Sponser</li>
-    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[I am Cat]</span><span class ="minecraft-text-9">Soniji</span>&gt; Customized Builder and Sponser</li>
+    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[Builder]</span><span class ="minecraft-text-6">Soniji</span>&gt; Builder and Sponser</li>
+    <li>&lt;<span class ="minecraft-text-2">[M]</span><span class ="minecraft-text-b">[I am Cat]</span><span class ="minecraft-text-6">Soniji</span>&gt; Customized Builder and Sponser</li>
 </ul>
 对应用户组为（这个部分跳过对所在世界的解释）
 - 建筑师和管理员
