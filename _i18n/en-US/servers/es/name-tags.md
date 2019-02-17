@@ -42,7 +42,7 @@ A line by line explanation of the chat messages above:
 ### Multiple Roles
 It is possible for a player to have multiple groups/roles in this server. In this case, the labeling process follows the rules below:
 - Admin Team always displays a cyan (<span class ="minecraft-text-b">§b</span>) player name (position 3).
-- No role other than Builders can have a bule (<span class ="minecraft-text-9">§9</span>) player name (position 3).
+- No role other than Builders can have a bule (<span class ="minecraft-text-6">§6</span>) player name (position 3).
 - Players always display a green (<span class ="minecraft-text-2">§2</span>) player name (position 3).
 - Admin Team never displays the sponsor cyan color (<span class ="minecraft-text-b">§b</span>) at position 2.
 - When a player is both a builder and a moderator, position 2 displays the player as a builder.
