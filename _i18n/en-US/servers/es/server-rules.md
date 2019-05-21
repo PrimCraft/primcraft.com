@@ -53,7 +53,7 @@ Yeah... We don't do temp bans.
 1. If it is your first minor offense, you will receive a warning.
 2. If you have a major offense, for example, intentionally modifying more than 50 blocks of what is clearly a building without permission, regardless if it is the first offense, will result in a global ban
 3. If you repeated an offense multiple times, regardless of the severity, you will global ban.
-4. If you are just offending some of our special/stupid rules, e.g. no politics, you will only be warned or ban locally. We cannot global ban you for that since it is not compliant with MCBANS policy anyway.
+4. If you are just offending some of our special/stupid rules, e.g. no politics, you will only be warned or banned locally. We cannot global ban you for that since it is not compliant with MCBANS policy anyway.
 
 ### What counts as a minor offense and what count as a major offense?
 Usually, the following are considered major offenses:
