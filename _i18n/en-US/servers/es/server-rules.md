@@ -46,6 +46,7 @@ We could take any of the following 3 actions, depend on the severity of the offe
 1. **Warning**: You will receive a warning. Our admin team may ask you to review the above-mentioned rules, and you may be tested on info regarding the rules after that.
 2. **Local Ban**: You will be banned from our server. This ban is permanent.
 3. **Global Ban**: You will be banned from our server, and will be reported to MCBANS which will result in a reduction in your reputation and may prevent you from entering other servers using MCBANS. This ban is permanent.
+
 Yeah... We don't do temp bans.
 
 ### General rule on how we choose an action
@@ -67,4 +68,5 @@ Usually, the following are considered major offenses:
     - It is up to the admin team to decide whether a reasoning can be considered sufficient, but usually if a mob farm is causing a lot of SERVER lag, or if the mob farm is malfunctioning in a way that is threatening the safety of other players or their properties, you will have sufficient reason to disable the farm.
 9. repeatedly harassing other players;
 11. repeat minor offenses multiple times;
+
 Anything not mentioned above is probably a minor offense. Again, our admin team reserves the right to interpret and amend the above-mentioned rules.
