@@ -33,7 +33,7 @@ By connecting to our server, you are to agree to the following rules:
 ## Heads up on some unusual policies
 
 1. **Alt account is allowed**: Activity on this server is treated on a per account basis.
-2. **Share account on your own risk**: We can't stop you from sharing your account, but as mentioned in the previous rule, activity on this server is treated on a per account basis. If the user of your account misbehaved and resulted in your account being banned from our server or MCBANS, we would not accept excuses such as "it was my sister playing on my account" and so on for unbanning.
+2. **Share account at your own risk**: We can't stop you from sharing your account, but as mentioned in the previous rule, activity on this server is treated on a per account basis. If the user of your account misbehaved and resulted in your account being banned from our server or MCBANS, we would not accept excuses such as "it was my sister playing on my account" and so on for unbanning.
 3. **NO account transfer**: Which means if you somehow lose access to your account, you will lose all assets associated with that account in this server too. We CANNOT perform any assets transfer if either initiating account or the receiving account is not able to confirm the transfer IN GAME.
 4. **You CAN build mob farms**: Just don't lag the server. See rule 9 and 10 for details. Please also secure your farm so that it is not gonna be safety hazard.
 5. **You CAN use many glitches exist in Minecraft**: As long as they are not general purpose. See rule 11 for details. And since we are using spigot, there is no guarantee on whether a glitch works in vanilla Minecraft would also work in our server.
