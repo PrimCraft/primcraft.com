@@ -6,10 +6,10 @@ By connecting to our server, you are to agree to the following rules:
 
 1. **Use common sense**: Have fun and don't be a jerk.
 2. **No cheating**: That includes X-ray, fly hacking, etc. If you are not sure if you can use a certain mod, ask an admin.
-3. **Show respect**: No discrimination against other players, no harassment, building into/over others' spaces, etc.
+3. **Show respect**: No harassment or discrimination against other players, no building into/over others' spaces, etc.
     - For the building case, we recommend keeping at least a 20 blocks distance or 10% padding from others' building/plot.
 4. **Be considerate**: Do not abuse public infrastructures/resources.
-    - Many players may leave their farm and resources for public use. Take only what you need only and always replant/re-breed if it is a produce/animal farm.
+    - Many players may leave their farm and resources for public use. Take only what you need only and always replant the farm or re-breed the animal.
 5. **No griefing**: Ask for permission before using/modifying/removing properties of other players. No lethal trap in public area, random holes, random destruction to the natural landscape, etc.
     - In addition, any safety hazard without the user knowing the risk and an escape option before the point of consent can be considered as griefing, e.g. a random minecart in nether leading the user down to a pool of lava without telling the user is a classic one.
 6. **No misleading/fraud**: Stuff like "jump into a lava pool with your gear on can get you a stack of diamond blocks" is not cool. Just stop.
@@ -52,8 +52,8 @@ Yeah... We don't do temp bans.
 
 ### General rule on how we choose an action
 1. If it is your first minor offense, you will receive a warning.
-2. If it is a major offense, for example, intentionally modifying more than 50 blocks of what is clearly a building without permission, regardless if it is the first offense, will result in a global ban
-3. If you repeated an offense multiple times, regardless of the severity, you will global ban.
+2. If it is a major offense, regardless if it is the first offense, will result in a global ban.
+3. If you repeat the same offense multiple times, regardless of the severity, you will global ban.
 4. If you are just offending some of our special/stupid rules, e.g. no politics, you will only be warned or banned locally. We cannot global ban you since it does not comply with MCBANS policy anyway.
 
 ### What counts as a minor offense and what count as a major offense?
