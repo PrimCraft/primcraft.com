@@ -25,7 +25,7 @@ By connecting to our server, you are to agree to the following rules:
     - General purpose means, for the item duplication case, the ability to duplicate any item you so desire. So carpet/rail duplicator is NOT a general purpose duplicator and you can use it. If you are unsure if you can use a certain glitch, please ask our admin.
     - If you have a bedrock breaking glitch that works in vanilla, you are allowed to use it.
     - There is no extra restriction in the region above the nether. You can feel free to build there.
-12. **Be polite**: No spamming, no personal attack and avoid cursing, NSFW stuff. If you need to post something NSFW, PM only those in interest or use the NSFW channel in our Discord.
+12. **Be polite**: No spamming, no personal attack and avoid cursing, NSFW stuff in public. If you need to post something NSFW, PM only those in interest or use the NSFW channel in our Discord. No NSFW building in game since they are always public.
 13. **No politics**: Most political discussions usually ended in s**t shows from my experience, so no.
     - No puns/memes/satires on former or current Chinese political figures either. They don't like it.
     - Just don't touch politics. Go find another place if you have to.
@@ -45,6 +45,7 @@ Dude, uncool.
 
 We could take any of the following 3 actions, depend on the severity of the offense:
 1. **Warning**: You will receive a warning. Our admin team may ask you to review the above-mentioned rules, and you may be tested on info regarding the rules after that.
+    - For buildings related offense, the 
 2. **Local Ban**: You will be banned from our server. This ban is permanent.
 3. **Global Ban**: You will be banned from our server, and will be reported to MCBANS which will result in a reduction in your reputation and may prevent you from entering other servers using MCBANS. This ban is permanent.
 
@@ -53,21 +54,21 @@ Yeah... We don't do temp bans.
 ### General rule on how we choose an action
 1. If it is your first minor offense, you will receive a warning.
 2. If it is a major offense, regardless if it is the first offense, will result in a global ban.
-3. If you repeat the same offense multiple times, regardless of the severity, you will global ban.
+3. If you repeat the same offense multiple times, regardless of the severity, will result in a global ban.
 4. If you are just offending some of our special/stupid rules, e.g. no politics, you will only be warned or banned locally. We cannot global ban you since it does not comply with MCBANS policy anyway.
 
 ### What counts as a minor offense and what count as a major offense?
 Usually, the following are considered major offenses:
 1. breaking more than 50 blocks of what is clearly a building without permission;
 2. placing more than 50 blocks out of place of what is clearly a building;
-3. breaking more than 200 blocks of produces of a farm;
-4. placing more than 50 blocks out of place of what is clearly a farm;
-5. whipping out the whole animal population of any farm;
+3. breaking more than 200 blocks of produces of a farm without permission;
+4. placing more than 50 blocks out of place of what is clearly a farm without permission;
+5. whipping out the whole animal population of a farm without permission;
 6. killing more than 20 animals of a farm without permission;
 7. killing without permission of more than 10 villagers where the villagers are clearly protected by other players;
 8. modifying a mob farm with a clear intention of disabling it without permission or sufficient reasoning;
     - It is up to the admin team to decide whether a reasoning can be considered sufficient, but usually if a mob farm is causing a lot of SERVER lag, or if the mob farm is malfunctioning in a way that is threatening the safety of other players or their properties, you will have sufficient reason to disable the farm.
 9. repeatedly harassing other players;
-10. repeating minor offenses multiple times;
+10. repeating minor offenses multiple times.
 
 Anything not mentioned above is probably a minor offense. Again, our admin team reserves the right to interpret and amend the above-mentioned rules.
