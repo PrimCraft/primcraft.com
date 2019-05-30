@@ -24,11 +24,11 @@ By connecting to our server, you are to agree to the following rules:
 11. **Use bugs/features/glitches within reason**: Usually, if a glitch is not a general purpose one, you should be fine.
     - General purpose means, for the item duplication case, the ability to duplicate any item you so desire. So carpet/rail duplicator is NOT a general purpose duplicator and you can use it. If you are unsure if you can use a certain glitch, please ask our admin.
     - If you have a bedrock breaking glitch that works in vanilla, you are allowed to use it.
-    - There is no extra restriction in the region above the nether. You can feel free to build there.
-12. **Be polite**: No spamming, no personal attack and avoid cursing, NSFW stuff in public. If you need to post something NSFW, PM only those in interest or use the NSFW channel in our Discord. No NSFW building in game since they are always public.
+    - There is no extra restriction in the region above the nether. Feel free to build there.
+12. **Be polite**: No spamming, no personal attack. Avoid cursing, NSFW stuff in public. If you need to post something NSFW, PM only those in interest or use the NSFW channel in our Discord. No NSFW building in game since they are always public.
 13. **No politics**: Most political discussions usually ended in s**t shows from my experience, so no.
     - No puns/memes/satires on former or current Chinese political figures either. They don't like it.
-    - Just don't touch politics. Go find another place if you have to.
+    - Just don't touch politics. Go find another place if you have to do so.
 14. Finally, our admin team reserves the right to interpret and amend the above-mentioned rules.
 
 ## Heads up on some unusual policies
@@ -71,4 +71,4 @@ Usually, the following are considered major offenses:
 9. repeatedly harassing other players;
 10. repeating minor offenses multiple times.
 
-Anything not mentioned above is probably a minor offense. Again, our admin team reserves the right to interpret and amend the above-mentioned rules.
+Any offense not mentioned above is probably a minor one. Again, our admin team reserves the right to interpret and amend the above-mentioned rules.
