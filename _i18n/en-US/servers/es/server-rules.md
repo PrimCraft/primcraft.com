@@ -1,4 +1,4 @@
-Rules are just here to ensure a fair and enjoyable environment for all of us. Just keep that in mind, and the rules wouldn't be that much of a problem to you.
+Rules are just here to ensure a fair and enjoyable environment for all of us. Just keep that in mind, and the rules wouldn't be that much of a problem for you.
 
 By connecting to our server, you are to agree to the following rules:
 
