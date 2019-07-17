@@ -10,3 +10,8 @@
 
 ## Client Version
 - Just use 1.13.2.
+
+## Communities
+- Tencent QQ Group: 291429434
+- Discord: [https://discord.gg/3N3jNEK](https://discord.gg/3N3jNEK)
+- GitHub: [https://github.com/PrimCraft](https://github.com/PrimCraft)

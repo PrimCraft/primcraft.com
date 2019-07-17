@@ -10,3 +10,8 @@
 
 ## 客户端所需版本
 - 1.13.2即可。
+
+## 交流平台
+- QQ群: 291429434
+- Discord: [https://discord.gg/3N3jNEK](https://discord.gg/3N3jNEK)
+- GitHub: [https://github.com/PrimCraft](https://github.com/PrimCraft)
