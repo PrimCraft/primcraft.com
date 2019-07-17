@@ -1,3 +1,12 @@
-Nothing to see for now...
+## Server Address
+- `primcraft.com`:
+    - This is the primary address. 
+        - This address points to Osaka if you are in mainland China.
+        - If you are outside of mainland China, this points to Tokyo directly.
+- `shn.primcraft.com`:
+    - If you are in mainland China and experience lag, try the above-mentioned address.
+        - This domain uses SRV record.
+        - If your network does not support SRV record, try `shna.primcraft.com:20222`.
 
-If you want to know more about individual sub-servers, click the thumbnail of one of the servers in the home page.
+## Client Version
+- Just use 1.13.2.
