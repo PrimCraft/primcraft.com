@@ -9,7 +9,7 @@
         - If your network does not support SRV record, try `shna.primcraft.com:20222`.
 
 ## Client Version
-- Just use 1.13.2.
+- Just use 1.14.4.
 
 ## Communities
 - Tencent QQ Group: 291429434
