@@ -15,3 +15,13 @@
 - QQ群: 291429434
 - Discord: [https://discord.gg/3N3jNEK](https://discord.gg/3N3jNEK)
 - GitHub: [https://github.com/PrimCraft](https://github.com/PrimCraft)
+
+## 常见问题
+- 传送去了地牢回不去生存服了
+    - 输入`/server es`即可返回
+- 圈地用什么工具呢？
+    - 木棍。其他信息可以查看[Wiki](https://wiki.primcraft.com/zh/residence)
+- 服务器有什么传送点呢？
+    - 输入`/warp`即可查看并且传送
+- 怎么删除家(home)
+    - 需要先输入`/homes`然后在GUI里找到需要删除的家后按着Shift然后右键删除。
