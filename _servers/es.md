@@ -5,7 +5,7 @@ titles:
   zh-CN: 经济生存
   en-US: Economic Survival
 code: es
-version: 1.13.2
+version: 1.14.4
 tags:
     - server-tags.shop
     - server-tags.residence
