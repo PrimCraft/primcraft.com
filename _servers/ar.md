@@ -5,7 +5,7 @@ title: Airless Dungeon
 titles:
   zh-CN: 窒息地牢
   en-US: Airless Dungeon
-version: 1.14.4
+version: 1.15.2
 tags:
     - server-tags.rouge-like
     - server-tags.adventure
