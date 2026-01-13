@@ -56,8 +56,6 @@ plugins:
   - jekyll-archives
   - jekyll-toc
   - jekyll-paginate
-  - bootstrap
-  - bootswatch
 
 paginate: 5
 paginate_path: "/posts/page-:num/"
