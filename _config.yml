@@ -28,8 +28,8 @@ navs:
     link: category
   - name: global.tags
     link: tag
-  - name: global.forum
-    link: https://forum.primcraft.com
+  - name: global.forum-archive
+    link: https://primcraft.com/forum-archive
   - name: global.maps
     link: https://maps.primcraft.com
   - name: global.map-archive
