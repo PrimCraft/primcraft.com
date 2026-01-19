@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
-gem "jekyll-theme-primcraft", github: "PrimCraft/jekyll-theme-primcraft", branch: "master"
+gem "jekyll-theme-primcraft", "~> 0.1.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
